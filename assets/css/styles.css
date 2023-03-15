@@ -13,6 +13,37 @@ body {
     padding: 10px;
     text-align: center;
 }
+.formulario {
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    max-width: 500px;
+}
+
+.label-input {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.input-form {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+btn-submit {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}git add
 
 .footer {
     background-color: black;
